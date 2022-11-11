@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/media/thura/D/exercise/e/mini-mart/.metadata/.plugins/org.eclipse.jdt.core
+1170230867.index
